@@ -1,0 +1,53 @@
+name = "Web3 Standard"
+description = ""
+core = "7.x"
+version = VERSION
+; ----------
+; Dependencies
+; ----------
+; Administration
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = admin_views
+; Chaos tool suite
+dependencies[] = ctools
+; Core
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = options
+dependencies[] = overlay
+dependencies[] = path
+dependencies[] = system
+;dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = update
+dependencies[] = user
+
+; Other
+dependencies[] = empty_front_page
+dependencies[] = pathauto
+dependencies[] = token
+dependencies[] = libraries
+dependencies[] = module_filter
+dependencies[] = userone
+dependencies[] = globalredirect
+dependencies[] = redirect
+dependencies[] = subpathauto
+dependencies[] = xmlsitemap
+; User interface
+dependencies[] = pasteformat
+dependencies[] = wysiwyg
+; Views
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+
