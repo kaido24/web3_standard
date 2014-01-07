@@ -33,6 +33,7 @@ dependencies[] = update
 dependencies[] = user
 
 ; Other
+dependencies[] = entity
 dependencies[] = empty_front_page
 dependencies[] = pathauto
 dependencies[] = token
@@ -43,6 +44,13 @@ dependencies[] = globalredirect
 dependencies[] = redirect
 dependencies[] = subpathauto
 dependencies[] = xmlsitemap
+
+; Media
+dependencies[] = file_entity
+dependencies[] = media
+dependencies[] = media_internet
+dependencies[] = media_wysiwyg_view_mode
+
 ; User interface
 dependencies[] = pasteformat
 dependencies[] = wysiwyg
