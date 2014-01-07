@@ -20,15 +20,17 @@ projects[globalredirect][version] = "1.5"
 
 projects[libraries][version] = "2.1"
 
-projects[module_filter][version] = "2.0-alpha2"
+projects[media][version] = "2.0-alpha2"
 
-projects[multiform][version] = "1.0"
+projects[module_filter][version] = "1.0"
 
 projects[userone][version] = "1.0-beta1"
 
 projects[pasteformat][version] = "1.5"
 
 projects[pathauto][version] = "1.2"
+
+projects[pluload][version] = "1.4"
 
 projects[token][version] = "1.5"
 
