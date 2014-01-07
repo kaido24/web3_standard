@@ -52,6 +52,11 @@ function web3_standard_install() {
         'weight' => 1,
         'status' => 1,
       ),
+      // Media filter.
+      'media_filter' => array(
+        'weight' => 9,
+        'status' => 1,
+      ),
       // HTML corrector filter.
       'filter_htmlcorrector' => array(
         'weight' => 10,
@@ -62,7 +67,6 @@ function web3_standard_install() {
   $full_html_format = (object) $full_html_format;
   filter_format_save($full_html_format);
 
-  // Enable some drupalcamp_baltics blocks.
   $default_theme = 'bartik';
   $admin_theme = 'shiny';
   // disable all themes
@@ -234,6 +238,9 @@ function web3_standard_install() {
         'RemoveFormat' => 1,
         'FontSize' => 1,
         'Table' => 1,
+      ),
+      'drupal' => array(
+        'media' => 1,
       ),
       'pasteformat' => array(
         'pasteformat' => 1,
