@@ -8,6 +8,8 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[admin_views][version] = "1.2"
 
+projects[file_entity][version] = "7.x-2.0-alpha3"
+
 projects[ctools][version] = "1.3"
 
 projects[redirect][version] = "1.0-rc1"
