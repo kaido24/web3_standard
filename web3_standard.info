@@ -44,12 +44,14 @@ dependencies[] = globalredirect
 dependencies[] = redirect
 dependencies[] = subpathauto
 dependencies[] = xmlsitemap
+dependencies[] = multiform
 
 ; Media
 dependencies[] = file_entity
 dependencies[] = media
 dependencies[] = media_internet
 dependencies[] = media_wysiwyg_view_mode
+dependencies[] = plupload
 
 ; User interface
 dependencies[] = pasteformat

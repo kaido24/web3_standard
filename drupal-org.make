@@ -8,7 +8,7 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[admin_views][version] = "1.2"
 
-projects[file_entity][version] = "7.x-2.0-alpha3"
+projects[file_entity][version] = "2.0-alpha3"
 
 projects[ctools][version] = "1.3"
 
@@ -20,7 +20,9 @@ projects[globalredirect][version] = "1.5"
 
 projects[libraries][version] = "2.1"
 
-projects[module_filter][version] = "7.x-2.0-alpha2"
+projects[module_filter][version] = "2.0-alpha2"
+
+projects[multiform][version] = "1.0"
 
 projects[userone][version] = "1.0-beta1"
 
@@ -56,5 +58,13 @@ libraries[ckeditor][type] = "library"
 libraries[ckeditor][destination] = "libraries"
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.tar.gz"
+
+; Plupload
+libraries[plupload][directory_name] = "plupload"
+libraries[plupload][type] = "library"
+libraries[plupload][destination] = "libraries"
+libraries[plupload][download][type] = "get"
+libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+
 
 
