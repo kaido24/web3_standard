@@ -1,10 +1,12 @@
-
 Web3 standard installation profile
 
 =============
 About
 =============
-This is Drupal 7 standard installation profile with some extra features.
+This is Drupal 7 installation profile with some features wich should help to create simple website.
+It has preconfigured Ckeditor + Media library for full html text format.
+Frontpage is set to empty (Empty front page module). You can set some new content from site settings or add some blocks for frontpage.
+
 Extra modules:
 Admin menu
 Admin views
@@ -16,7 +18,10 @@ Global redirect
 XML Sitemap
 File entity
 Media
+plupload
 some others.
+
+Admin theme: Shiny
 
 Extra settings:
 Wysiwig settings
