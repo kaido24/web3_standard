@@ -171,6 +171,15 @@ function web3_standard_install() {
     node_add_body_field($type);
   }
 
+  // Default "Basic page" to not be promoted.
+  variable_set('node_options_page', array('status'));
+  // Don't display date and author information for "Basic page" nodes by default.
+  variable_set('node_submitted_page', FALSE);
+
+  // Set article menu default settings to no menu.
+  variable_set('menu_options_article', array());
+  variable_set('menu_parent_article', 'main-menu:0');
+
   // drop system / user blocks to ensure correct building
   db_delete('block')->condition('module', 'system')->execute();
   db_delete('block')->condition('module', 'user')->execute();
