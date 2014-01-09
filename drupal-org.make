@@ -24,6 +24,8 @@ projects[media][version] = "2.0-alpha3"
 
 projects[module_filter][version] = "1.0"
 
+projects[multiform][version] = "1.0"
+
 projects[userone][version] = "1.0-beta1"
 
 projects[pasteformat][version] = "1.5"
