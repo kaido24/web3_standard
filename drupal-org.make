@@ -22,7 +22,7 @@ projects[libraries][version] = "2.1"
 
 projects[media][version] = "2.0-alpha3"
 
-projects[module_filter][version] = "1.0"
+projects[module_filter][version] = "1.8"
 
 projects[multiform][version] = "1.0"
 
@@ -40,7 +40,7 @@ projects[wysiwyg][version] = "2.2"
 
 projects[empty_front_page][version] = "1.0"
 
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.3"
 
 projects[views][version] = "3.7"
 
