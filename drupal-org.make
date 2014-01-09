@@ -44,7 +44,7 @@ projects[entity][version] = "1.3"
 
 projects[views][version] = "3.7"
 
-projects[views_bulk_operations][version] = "3.1"
+projects[views_bulk_operations][version] = "3.2"
 
 projects[xmlsitemap][version] = "2.0-rc2"
 
