@@ -26,7 +26,7 @@ projects[media][version] = "2.0-alpha3"
 
 projects[metatag][version] = "1.0-beta7"
 
-projects[module_filter][version] = "1.0"
+projects[module_filter][version] = "2.0-alpha2"
 
 projects[multiform][version] = "1.0"
 
@@ -44,11 +44,11 @@ projects[wysiwyg][version] = "2.2"
 
 projects[empty_front_page][version] = "1.0"
 
-projects[entity][version] = "1.2"
+projects[entity][version] = "1.3"
 
 projects[views][version] = "3.7"
 
-projects[views_bulk_operations][version] = "3.1"
+projects[views_bulk_operations][version] = "3.2"
 
 projects[xmlsitemap][version] = "2.0-rc2"
 
