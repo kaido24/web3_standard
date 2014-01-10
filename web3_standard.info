@@ -33,6 +33,7 @@ dependencies[] = update
 dependencies[] = user
 
 ; Other
+dependencies[] = backup_migrate
 dependencies[] = entity
 dependencies[] = empty_front_page
 dependencies[] = pathauto
@@ -44,6 +45,7 @@ dependencies[] = globalredirect
 dependencies[] = redirect
 dependencies[] = subpathauto
 dependencies[] = xmlsitemap
+dependencies[] = metatag
 dependencies[] = multiform
 
 ; Media
