@@ -7,6 +7,7 @@ projects[admin_menu][version] = "3.0-rc4"
 ;projects[admin_menu][subdir] = "contrib"
 
 projects[admin_views][version] = "1.2"
+projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
 projects[google_analytics] = "1.4"
 
