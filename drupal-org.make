@@ -22,7 +22,7 @@ projects[libraries][version] = "2.1"
 
 projects[media][version] = "2.0-alpha3"
 
-projects[module_filter][version] = "1.8"
+projects[module_filter][version] = "2.0-alpha2"
 
 projects[multiform][version] = "1.0"
 
