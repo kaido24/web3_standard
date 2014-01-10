@@ -8,6 +8,8 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[admin_views][version] = "1.2"
 
+project[google_analytics] = "1.4"
+
 projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-alpha3"
