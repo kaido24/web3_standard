@@ -194,6 +194,13 @@ function web3_standard_install() {
   $filtered_html_permission = filter_permission_name($filtered_html_format);
   user_role_grant_permissions(DRUPAL_ANONYMOUS_RID, array('access content', $filtered_html_permission));
   user_role_grant_permissions(DRUPAL_AUTHENTICATED_RID, array('access content', $filtered_html_permission));
+
+  // Create a default role for site editors, with all available permissions assigned.
+  $editor_role = new stdClass();
+  $editor_role->name = 'editor';
+  $editor_role->weight = 3;
+  user_role_save($editor_role);
+
    // Create a default role for site administrators, with all available permissions assigned.
   $admin_role = new stdClass();
   $admin_role->name = 'administrator';

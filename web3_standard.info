@@ -33,7 +33,7 @@ dependencies[] = update
 dependencies[] = user
 
 ; Other
-dependencies[] = google_analytics
+dependencies[] = googleanalytics
 dependencies[] = backup_migrate
 dependencies[] = entity
 dependencies[] = empty_front_page
