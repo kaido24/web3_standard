@@ -15,7 +15,7 @@ projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-alpha3"
 
-projects[ctools][version] = "1.3"
+projects[ctools][version] = "1.4"
 
 projects[redirect][version] = "1.0-rc1"
 
@@ -23,11 +23,11 @@ projects[subpathauto][version] = "1.3"
 
 projects[globalredirect][version] = "1.5"
 
-projects[libraries][version] = "2.1"
+projects[libraries][version] = "2.2"
 
 projects[media][version] = "2.0-alpha3"
 
-projects[metatag][version] = "1.0-beta7"
+projects[metatag][version] = "1.0-beta9"
 
 projects[module_filter][version] = "2.0-alpha2"
 
@@ -39,7 +39,7 @@ projects[pasteformat][version] = "1.5"
 
 projects[pathauto][version] = "1.2"
 
-projects[plupload][version] = "1.4"
+projects[plupload][version] = "1.6"
 
 projects[token][version] = "1.5"
 
