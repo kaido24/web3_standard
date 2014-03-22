@@ -56,6 +56,15 @@ projects[views_bulk_operations][version] = "3.2"
 
 projects[xmlsitemap][version] = "2.0"
 
+
+;experimental modules
+
+projects[media_multiselect][type] = module
+projects[media_multiselect][download][type] = git
+projects[media_multiselect][download][revision] = 1b4fc64
+projects[media_multiselect][download][branch] = 7.x-1.x
+projects[media_multiselect][download][url] = git.drupal.org:sandbox/fangel/1652676.git
+
 ; +++++ Themes +++++
 
 ; shiny
