@@ -7,7 +7,7 @@ version = VERSION
 ; ----------
 ; Administration
 dependencies[] = admin_menu
-dependencies[] = admin_menu_toolbar
+dependencies[] = adminimal_admin_menu
 dependencies[] = admin_views
 ; Chaos tool suite
 dependencies[] = ctools
