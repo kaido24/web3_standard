@@ -7,7 +7,7 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[adminimal_admin_menu] = "1.5"
 
-projects[admin_views][version] = "1.2"
+projects[admin_views][version] = "1.3"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
 projects[google_analytics] = "1.4"
@@ -48,7 +48,7 @@ projects[wysiwyg][version] = "2.2"
 
 projects[empty_front_page][version] = "1.0"
 
-projects[entity][version] = "1.4"
+projects[entity][version] = "1.5"
 
 projects[views][version] = "3.7"
 
