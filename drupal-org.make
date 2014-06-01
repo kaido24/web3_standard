@@ -50,7 +50,7 @@ projects[empty_front_page][version] = "1.0"
 
 projects[entity][version] = "1.5"
 
-projects[views][version] = "3.7"
+projects[views][version] = "3.8"
 
 projects[views_bulk_operations][version] = "3.2"
 
@@ -69,7 +69,7 @@ projects[media_multiselect][download][url] = git.drupal.org:sandbox/fangel/16526
 
 ; shiny
 projects[shiny][type] = "theme"
-projects[shiny][version] = "1.4"
+projects[shiny][version] = "1.5"
 
 ; +++++ Libraries +++++
 
