@@ -5,6 +5,8 @@ api = "2"
 
 projects[admin_menu][version] = "3.0-rc4"
 
+projects[advagg] = "2.7"
+
 projects[adminimal_admin_menu] = "1.5"
 
 projects[admin_views][version] = "1.3"
