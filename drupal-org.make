@@ -16,6 +16,8 @@ projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-alpha3"
 
+projects[filecache][version] = "1.0-beta2"
+
 projects[ctools][version] = "1.4"
 
 projects[redirect][version] = "1.0-rc1"
