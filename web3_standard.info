@@ -44,10 +44,11 @@ dependencies[] = module_filter
 dependencies[] = userone
 dependencies[] = globalredirect
 dependencies[] = redirect
-dependencies[] = subpathauto
 dependencies[] = xmlsitemap
 dependencies[] = metatag
 dependencies[] = multiform
+dependencies[] = filecache
+dependencies[] = imageapi_optimize
 
 ; Media
 dependencies[] = file_entity
