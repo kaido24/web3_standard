@@ -22,8 +22,6 @@ projects[ctools][version] = "1.4"
 
 projects[redirect][version] = "1.0-rc1"
 
-projects[subpathauto][version] = "1.3"
-
 projects[globalredirect][version] = "1.5"
 
 projects[libraries][version] = "2.2"
