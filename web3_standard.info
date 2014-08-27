@@ -71,3 +71,4 @@ dependencies[] = advagg
 dependencies[] = advagg_css_compress
 dependencies[] = advagg_bundler
 dependencies[] = advagg_mod
+dependencies[] = entitycache
