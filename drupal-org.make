@@ -64,6 +64,7 @@ projects[entitycache][version] = "1.2"
 projects[expire][version] = "2.0-rc3"
 projects[httprl][version] = "1.4"
 projects[authcache][version] = "2.0-beta3"
+projects[fast_404][version] = "1.3"
 
 ;experimental modules
 
