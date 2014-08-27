@@ -47,8 +47,6 @@ dependencies[] = redirect
 dependencies[] = xmlsitemap
 dependencies[] = metatag
 dependencies[] = multiform
-dependencies[] = filecache
-dependencies[] = imageapi_optimize
 
 ; Media
 dependencies[] = file_entity
@@ -66,3 +64,10 @@ dependencies[] = views
 dependencies[] = views_bulk_operations
 dependencies[] = views_ui
 
+;Performance managment
+dependencies[] = filecache
+dependencies[] = imageapi_optimize
+dependencies[] = advagg
+dependencies[] = advagg_css_compress
+dependencies[] = advagg_bundler
+dependencies[] = advagg_mod
