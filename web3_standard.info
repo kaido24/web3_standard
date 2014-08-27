@@ -78,5 +78,6 @@ dependencies[] = boost
 dependencies[] = boost_crawler
 dependencies[] = expire
 dependencies[] = httprl
+dependencies[] = fast_404
 
 
