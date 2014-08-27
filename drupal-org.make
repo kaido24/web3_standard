@@ -18,8 +18,6 @@ projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-alpha3"
 
-projects[filecache][version] = "1.0-beta2"
-
 projects[ctools][version] = "1.4"
 
 projects[redirect][version] = "1.0-rc1"
@@ -58,8 +56,13 @@ projects[views_bulk_operations][version] = "3.2"
 
 projects[xmlsitemap][version] = "2.0"
 
+;Performance modules
 projects[imageapi_optimize][version] = "1.0"
-
+projects[filecache][version] = "1.0-beta2"
+projects[boost][version] = "1.0"
+projects[entitycache][version] = "1.2"
+projects[expire][version] = "2.0-rc3"
+projects[httprl][version] = "1.4"
 
 ;experimental modules
 
@@ -90,6 +93,3 @@ libraries[plupload][type] = "library"
 libraries[plupload][destination] = "libraries"
 libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
-
-
-
