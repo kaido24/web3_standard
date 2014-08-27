@@ -72,3 +72,10 @@ dependencies[] = advagg_css_compress
 dependencies[] = advagg_bundler
 dependencies[] = advagg_mod
 dependencies[] = entitycache
+dependencies[] = authcache
+dependencies[] = boost
+dependencies[] = boost_crawler
+dependencies[] = expire
+dependencies[] = httprl
+
+
