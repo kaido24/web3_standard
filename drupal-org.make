@@ -28,11 +28,11 @@ projects[libraries][version] = "2.2"
 
 projects[media][version] = "2.0-alpha3"
 
-projects[metatag][version] = "1.0-beta9"
+projects[metatag][version] = "1.0-rc2"
 
 projects[module_filter][version] = "2.0-alpha2"
 
-projects[multiform][version] = "1.0"
+projects[multiform][version] = "1.1"
 
 projects[userone][version] = "1.0-beta1"
 
@@ -71,7 +71,7 @@ projects[media_multiselect][download][url] = git.drupal.org:sandbox/fangel/16526
 
 ; shiny
 projects[shiny][type] = "theme"
-projects[shiny][version] = "1.5"
+projects[shiny][version] = "1.6"
 
 ; +++++ Libraries +++++
 
