@@ -73,6 +73,7 @@ dependencies[] = advagg_bundler
 dependencies[] = advagg_mod
 dependencies[] = entitycache
 dependencies[] = authcache
+dependencies[] = authcache_builtin
 dependencies[] = boost
 dependencies[] = boost_crawler
 dependencies[] = expire
