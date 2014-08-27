@@ -3,6 +3,8 @@ api = "2"
 
 ; +++++ Modules +++++
 
+projects[advagg][version] = "2.7"
+
 projects[admin_menu][version] = "3.0-rc4"
 
 projects[adminimal_admin_menu] = "1.5"
