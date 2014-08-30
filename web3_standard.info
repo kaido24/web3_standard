@@ -31,6 +31,8 @@ dependencies[] = system
 dependencies[] = text
 dependencies[] = update
 dependencies[] = user
+dependencies[] = locale
+dependencies[] = l10n_update
 
 ; Other
 dependencies[] = googleanalytics
