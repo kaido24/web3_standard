@@ -59,6 +59,7 @@ projects[views_bulk_operations][version] = "3.2"
 projects[xmlsitemap][version] = "2.0"
 
 projects[l10n_update][version] = "1.0"
+projects[emptyparagraphkiller] = "1.0-beta2"
 
 ;Performance modules
 projects[imageapi_optimize][version] = "1.0"
