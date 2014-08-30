@@ -1,4 +1,4 @@
---- default.settings.php2	2014-05-08 07:05:00.000000000 +0300
+--- default.settings.php	2014-05-08 07:05:00.000000000 +0300
 +++ default.settings.php	2014-08-30 14:57:03.000000000 +0300
 @@ -551,3 +551,26 @@ $conf['404_fast_html'] = '<!DOCTYPE html
   * Remove the leading hash signs to disable.
