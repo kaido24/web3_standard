@@ -1,6 +1,6 @@
---- sites/default/default.settings.php	2014-05-08 07:05:00.000000000 +0300
-+++ sites/default/default.settings.php	2014-08-30 14:57:03.000000000 +0300
-@@ -551,3 +551,26 @@ $conf['404_fast_html'] = '<!DOCTYPE html
+--- sites/default/default.settings.php	2014-08-24 21:53:58.000000000 +0300
++++ sites/default/default.settings.php	2014-08-30 16:27:16.000000000 +0300
+@@ -551,3 +551,19 @@ $conf['404_fast_html'] = '<!DOCTYPE html
   * Remove the leading hash signs to disable.
   */
  # $conf['allow_authorize_operations'] = FALSE;
