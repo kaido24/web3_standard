@@ -9,7 +9,7 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[adminimal_admin_menu] = "1.5"
 
-projects[admin_language'] = "1.0-beta1"
+projects[admin_language] = "1.0-beta1"
 
 projects[admin_views][version] = "1.3"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
