@@ -52,6 +52,7 @@ dependencies[] = multiform
 dependencies[] = l10n_update
 dependencies[] = pathologic
 dependencies[] = transliteration
+dependencies[] = emptyparagraphkiller
 
 ; Media
 dependencies[] = file_entity
