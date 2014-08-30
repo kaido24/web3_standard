@@ -30,5 +30,8 @@ Default format is full html with Ckeditor (added Media browser for images).
 =============
 Istallation
 =============
-Add these files to profiles folder and copy drupal-org.make and local.make root directory of your planned drupal folder.
-Run command: drush make local.make
+Using git and terminal:
+git clone https://github.com/kaido24/web3_standard.git
+cp web3_standard/buildsite.sh .
+sh buildsite.sh
+rm buildsite.sh
