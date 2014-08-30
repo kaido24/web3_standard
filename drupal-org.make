@@ -79,13 +79,9 @@ projects[httprl][version] = "1.14"
 
 projects[authcache][version] = "2.0-beta3"
 
-projects[fast_404][version] = "1.3"
-
 projects[transliteration] = "3.2"
 
 projects[pathologic] = "2.12"
-
-projects[cacheobject] = "1.0-beta1"
 
 ;experimental modules
 
