@@ -59,18 +59,28 @@ projects[views_bulk_operations][version] = "3.2"
 projects[xmlsitemap][version] = "2.0"
 
 projects[l10n_update][version] = "1.0"
+
 projects[emptyparagraphkiller] = "1.0-beta2"
 
 ;Performance modules
 projects[imageapi_optimize][version] = "1.0"
+
 projects[filecache][version] = "1.0-beta2"
+
 projects[boost][version] = "1.0"
+
 projects[entitycache][version] = "1.2"
+
 projects[expire][version] = "2.0-rc3"
-projects[httprl][version] = "1.4"
+
+projects[httprl][version] = "1.14"
+
 projects[authcache][version] = "2.0-beta3"
+
 projects[fast_404][version] = "1.3"
+
 projects[transliteration] = "3.2"
+
 projects[pathologic] = "2.12"
 
 ;experimental modules
