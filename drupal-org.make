@@ -83,6 +83,8 @@ projects[transliteration] = "3.2"
 
 projects[pathologic] = "2.12"
 
+projects[cacheobject] = "1.0-beta1"
+
 ;experimental modules
 
 projects[media_multiselect][type] = module

@@ -1,0 +1,29 @@
+--- default.settings.php2	2014-05-08 07:05:00.000000000 +0300
++++ default.settings.php	2014-08-30 14:57:03.000000000 +0300
+@@ -551,3 +551,26 @@ $conf['404_fast_html'] = '<!DOCTYPE html
+  * Remove the leading hash signs to disable.
+  */
+ # $conf['allow_authorize_operations'] = FALSE;
++
++$conf['shortcut_max_slots'] = 20;
++
++# Include the Cache Object API Wrapper as a cache backend
++$conf['cache_backends'][] = 'sites/all/modules/cacheobject/cacheobject.inc';
++# Set the cache class for the form cache to
++$conf['cache_class_cache_form'] = 'CacheObjectAPIWrapper';
++# Optionally set the underlying cache class
++$conf['cacheobject_class_cache_form'] = 'DrupalDatabaseCache';
++
++$conf['cache_backends'][] = 'sites/all/modules/filecache/filecache.inc';
++$conf['cache_default_class'] = 'DrupalFileCache';
++$conf['cache_backends'][] = 'sites/all/modules/authcache/authcache.cache.inc';
++$conf['cache_backends'][] = 'sites/all/modules/authcache/modules/authcache_builtin/authcache_builtin.cache.inc';
++
++#Lets play grazy
++$conf['cache_class_cache_authcache_key'] = 'DrupalFileCache';
++
++$conf['authcache_builtin_cache_without_database'] = TRUE;
++
++$conf['page_compression'] = 1;
++
++$conf['page_cache_maximum_age'] = 600;
