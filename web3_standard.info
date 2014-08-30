@@ -32,7 +32,6 @@ dependencies[] = text
 dependencies[] = update
 dependencies[] = user
 dependencies[] = locale
-dependencies[] = l10n_update
 
 ; Other
 dependencies[] = googleanalytics
@@ -49,6 +48,9 @@ dependencies[] = redirect
 dependencies[] = xmlsitemap
 dependencies[] = metatag
 dependencies[] = multiform
+dependencies[] = l10n_update
+dependencies[] = pathologic
+dependencies[] = transliteration
 
 ; Media
 dependencies[] = file_entity
