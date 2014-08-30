@@ -60,6 +60,8 @@ projects[xmlsitemap][version] = "2.0"
 
 projects[l10n_update][version] = "1.0"
 
+projects[l10n_client][version] = "1.3"
+
 projects[emptyparagraphkiller] = "1.0-beta2"
 
 ;Performance modules
