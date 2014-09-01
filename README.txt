@@ -30,13 +30,17 @@ Default format is full html with Ckeditor (added Media browser for images).
 =============
 Istallation
 =============
-Using git and terminal:
+// Download and build site using git and terminal:
+
 git clone https://github.com/kaido24/web3_standard.git
 cp web3_standard/buildsite.sh .
 sh buildsite.sh
 mkdir sites/default/files
 cp sites/default/default.settings.php sites/default/settings.php
 chmod 777 sites/default/files sites/default/settings.php
+
+// Install site using command line
+drush site-install profile_name --account-name=admin --account-pass=admin --db-url=mysql://dbuser:dbpass@hostname/dbname
 
 // Optional cleanup
 rm CHANGELOG.txt MAINTAINERS.txt default_settings_mods.patch COPYRIGHT.txt PATCHES.txt INSTALL.mysql.txt README.txt INSTALL.pgsql.txt UPGRADE.txt INSTALL.sqlite.txt INSTALL.txt boost2htaccess.patch LICENSE.txt
