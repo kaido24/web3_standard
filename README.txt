@@ -34,4 +34,3 @@ Using git and terminal:
 git clone https://github.com/kaido24/web3_standard.git
 cp web3_standard/buildsite.sh .
 sh buildsite.sh
-rm buildsite.sh
