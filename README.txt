@@ -39,4 +39,4 @@ cp sites/default/default.settings.php sites/default/settings.php
 chmod 777 sites/default/files sites/default/settings.php
 
 // Optional cleanup
-rm CHANGELOG.txt MAINTAINERS.txt default_settings_mods.patch COPYRIGHT.txt PATCHES.txt INSTALL.mysql.txt README.txt INSTALL.pgsql.txt UPGRADE.txt INSTALL.sqlite.txt INSTALL.txt boost2htaccess.patch LICENSE.txt buildsite.sh
+rm CHANGELOG.txt MAINTAINERS.txt default_settings_mods.patch COPYRIGHT.txt PATCHES.txt INSTALL.mysql.txt README.txt INSTALL.pgsql.txt UPGRADE.txt INSTALL.sqlite.txt INSTALL.txt boost2htaccess.patch LICENSE.txt
