@@ -28,7 +28,7 @@ projects[globalredirect][version] = "1.5"
 
 projects[libraries][version] = "2.2"
 
-projects[media][version] = "2.0-alpha3+108-dev"
+projects[media][version] = "2.x-dev"
 
 projects[metatag][version] = "1.0-rc2"
 
