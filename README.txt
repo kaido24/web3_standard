@@ -34,3 +34,6 @@ Using git and terminal:
 git clone https://github.com/kaido24/web3_standard.git
 cp web3_standard/buildsite.sh .
 sh buildsite.sh
+mkdir sites/default/files
+cp sites/default/default.settings.php sites/default/settings.php
+chmod 777 sites/default/files sites/default/settings.php
