@@ -7,14 +7,14 @@ projects[advagg][version] = "2.7"
 
 projects[admin_menu][version] = "3.0-rc4"
 
-projects[adminimal_admin_menu] = "1.5"
+projects[adminimal_admin_menu][version] = "1.5"
 
-projects[admin_language] = "1.0-beta1"
+projects[admin_language][version] = "1.0-beta1"
 
 projects[admin_views][version] = "1.3"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
-projects[google_analytics] = "1.4"
+projects[google_analytics][version] = "1.4"
 
 projects[backup_migrate][version] = "2.8"
 
@@ -62,7 +62,7 @@ projects[l10n_update][version] = "1.0"
 
 projects[l10n_client][version] = "1.3"
 
-projects[emptyparagraphkiller] = "1.0-beta2"
+projects[emptyparagraphkiller][version] = "1.0-beta2"
 
 ;Performance modules
 projects[imageapi_optimize][version] = "1.0"
@@ -79,9 +79,9 @@ projects[httprl][version] = "1.14"
 
 projects[authcache][version] = "2.0-beta3"
 
-projects[transliteration] = "3.2"
+projects[transliteration][version] = "3.2"
 
-projects[pathologic] = "2.12"
+projects[pathologic][version] = "2.12"
 
 ;experimental modules
 
