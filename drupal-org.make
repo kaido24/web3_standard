@@ -7,9 +7,9 @@ projects[advagg][version] = "2.7"
 
 projects[admin_menu][version] = "3.0-rc4"
 
-projects[adminimal_admin_menu] = "1.5"
+projects[adminimal_admin_menu][version] = "1.5"
 
-projects[admin_language] = "1.0-beta1"
+projects[admin_language][version] = "1.0-beta1"
 
 projects[admin_views][version] = "1.3"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
@@ -85,11 +85,11 @@ projects[pathologic][version] = "2.12"
 
 ;experimental modules
 
-projects[media_multiselect][type] = module
-projects[media_multiselect][download][type] = git
-projects[media_multiselect][download][revision] = 1b4fc64
-projects[media_multiselect][download][branch] = 7.x-1.x
-projects[media_multiselect][download][url] = git.drupal.org:sandbox/fangel/1652676.git
+;projects[media_multiselect][type] = module
+;projects[media_multiselect][download][type] = git
+;projects[media_multiselect][download][revision] = 1b4fc64
+;projects[media_multiselect][download][branch] = 7.x-1.x
+;projects[media_multiselect][download][url] = git.drupal.org:sandbox/fangel/1652676.git
 
 ; +++++ Themes +++++
 
