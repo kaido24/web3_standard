@@ -18,7 +18,7 @@ projects[google_analytics][version] = "1.4"
 
 projects[backup_migrate][version] = "2.8"
 
-projects[file_entity][version] = "7.x-2.0-beta1"
+projects[file_entity][version] = "2.0-beta1"
 
 projects[ctools][version] = "1.5"
 
