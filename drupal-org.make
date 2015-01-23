@@ -46,7 +46,7 @@ projects[plupload][version] = "1.7"
 
 projects[token][version] = "1.5"
 
-projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][version] = "2.x-dev"
 
 projects[empty_front_page][version] = "1.0"
 
