@@ -104,7 +104,7 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 libraries[ckeditor][destination] = "libraries"
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.tar.gz"
+libraries[ckeditor][download][url] = "http://ckeditor.com/online-builder/releases/minified/4.4.6/moono/4.4.6/ckeditor_4.4.6_732f850eb615.zip"
 
 ; Plupload
 libraries[plupload][directory_name] = "plupload"
