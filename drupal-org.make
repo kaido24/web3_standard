@@ -5,7 +5,7 @@ api = "2"
 
 projects[advagg][version] = "2.7"
 
-projects[admin_menu][version] = "3.0-rc4"
+projects[admin_menu][version] = "3.0-rc5"
 
 projects[adminimal_admin_menu][version] = "1.5"
 
@@ -18,9 +18,9 @@ projects[google_analytics][version] = "1.4"
 
 projects[backup_migrate][version] = "2.8"
 
-projects[file_entity][version] = "2.0-alpha3"
+projects[file_entity][version] = "7.x-2.0-beta1"
 
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 
 projects[redirect][version] = "1.0-rc1"
 
@@ -30,7 +30,7 @@ projects[libraries][version] = "2.2"
 
 projects[media][version] = "2.x-dev"
 
-projects[metatag][version] = "1.0-rc2"
+projects[metatag][version] = "1.4"
 
 projects[module_filter][version] = "2.0-alpha2"
 
@@ -42,7 +42,7 @@ projects[pasteformat][version] = "1.5"
 
 projects[pathauto][version] = "1.2"
 
-projects[plupload][version] = "1.6"
+projects[plupload][version] = "1.7"
 
 projects[token][version] = "1.5"
 
@@ -56,16 +56,16 @@ projects[views][version] = "3.8"
 
 projects[views_bulk_operations][version] = "3.2"
 
-projects[xmlsitemap][version] = "2.0"
+projects[xmlsitemap][version] = "2.1"
 
-projects[l10n_update][version] = "1.0"
+projects[l10n_update][version] = "1.1"
 
 projects[l10n_client][version] = "1.3"
 
 projects[emptyparagraphkiller][version] = "1.0-beta2"
 
 ;Performance modules
-projects[imageapi_optimize][version] = "1.0"
+projects[imageapi_optimize][version] = "1.2"
 
 projects[filecache][version] = "1.0-beta2"
 
@@ -73,11 +73,11 @@ projects[boost][version] = "1.0"
 
 projects[entitycache][version] = "1.2"
 
-projects[expire][version] = "2.0-rc3"
+projects[expire][version] = "2.0-rc4"
 
 projects[httprl][version] = "1.14"
 
-projects[authcache][version] = "2.0-beta3"
+projects[authcache][version] = "2.0-beta4"
 
 projects[transliteration][version] = "3.2"
 
