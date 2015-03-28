@@ -72,16 +72,16 @@ dependencies[] = views_bulk_operations
 dependencies[] = views_ui
 
 ;Performance managment
-dependencies[] = filecache
+;dependencies[] = filecache
 dependencies[] = imageapi_optimize
 dependencies[] = advagg
 dependencies[] = advagg_css_compress
 dependencies[] = advagg_bundler
 dependencies[] = advagg_mod
-dependencies[] = entitycache
-dependencies[] = authcache
-dependencies[] = authcache_builtin
-dependencies[] = boost
-dependencies[] = boost_crawler
-dependencies[] = expire
-dependencies[] = httprl
+;dependencies[] = entitycache
+;dependencies[] = authcache
+;dependencies[] = authcache_builtin
+;dependencies[] = boost
+;dependencies[] = boost_crawler
+;dependencies[] = expire
+;dependencies[] = httprl

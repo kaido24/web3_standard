@@ -67,17 +67,17 @@ projects[emptyparagraphkiller][version] = "1.0-beta2"
 ;Performance modules
 projects[imageapi_optimize][version] = "1.2"
 
-projects[filecache][version] = "1.0-beta2"
+;projects[filecache][version] = "1.0-beta2"
 
-projects[boost][version] = "1.0"
+;projects[boost][version] = "1.0"
 
-projects[entitycache][version] = "1.2"
+;projects[entitycache][version] = "1.2"
 
-projects[expire][version] = "2.0-rc4"
+;projects[expire][version] = "2.0-rc4"
 
-projects[httprl][version] = "1.14"
+;projects[httprl][version] = "1.14"
 
-projects[authcache][version] = "2.0-beta4"
+;projects[authcache][version] = "2.0-beta4"
 
 projects[transliteration][version] = "3.2"
 

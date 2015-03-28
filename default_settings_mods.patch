@@ -7,16 +7,3 @@
 +
 +$conf['shortcut_max_slots'] = 20;
 +
-+$conf['cache_backends'][] = 'sites/all/modules/filecache/filecache.inc';
-+$conf['cache_default_class'] = 'DrupalFileCache';
-+$conf['cache_backends'][] = 'sites/all/modules/authcache/authcache.cache.inc';
-+$conf['cache_backends'][] = 'sites/all/modules/authcache/modules/authcache_builtin/authcache_builtin.cache.inc';
-+
-+#Lets play grazy
-+$conf['cache_class_cache_authcache_key'] = 'DrupalFileCache';
-+
-+$conf['authcache_builtin_cache_without_database'] = TRUE;
-+
-+$conf['page_compression'] = 1;
-+
-+$conf['page_cache_maximum_age'] = 600;
