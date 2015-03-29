@@ -54,6 +54,7 @@ dependencies[] = l10n_client
 dependencies[] = pathologic
 dependencies[] = transliteration
 dependencies[] = emptyparagraphkiller
+dependencies[] = email_registration
 
 ; Media
 dependencies[] = file_entity
