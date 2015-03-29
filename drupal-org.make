@@ -48,6 +48,8 @@ projects[token][version] = "1.6"
 
 projects[wysiwyg][version] = "2.x-dev"
 
+projects[email_registration][version] = "1.2"
+
 projects[empty_front_page][version] = "1.0"
 
 projects[entity][version] = "1.6"
