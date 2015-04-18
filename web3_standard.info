@@ -67,6 +67,7 @@ dependencies[] = plupload
 ; User interface
 dependencies[] = pasteformat
 dependencies[] = wysiwyg
+dependencies[] = clientside_validation
 ; Views
 dependencies[] = views
 dependencies[] = views_bulk_operations
