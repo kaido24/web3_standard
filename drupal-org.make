@@ -20,6 +20,8 @@ projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-beta1"
 
+projects[clientside_validation][version] = "1.41"
+
 projects[ctools][version] = "1.7"
 
 projects[redirect][version] = "1.0-rc1"
