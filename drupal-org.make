@@ -3,7 +3,7 @@ api = "2"
 
 ; +++++ Modules +++++
 
-projects[advagg][version] = "2.7"
+projects[advagg][version] = "2.8"
 
 projects[admin_menu][version] = "3.0-rc5"
 
@@ -56,7 +56,7 @@ projects[empty_front_page][version] = "1.0"
 
 projects[entity][version] = "1.6"
 
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 
 projects[views_bulk_operations][version] = "3.2"
 
