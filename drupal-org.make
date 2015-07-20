@@ -3,28 +3,28 @@ api = "2"
 
 ; +++++ Modules +++++
 
-projects[advagg][version] = "2.8"
+projects[advagg][version] = "2.14"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-projects[adminimal_admin_menu][version] = "1.5"
+projects[adminimal_admin_menu][version] = "1.6"
 
 projects[admin_language][version] = "1.0-beta1"
 
-projects[admin_views][version] = "1.4"
+projects[admin_views][version] = "1.5"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
 projects[google_analytics][version] = "1.4"
 
 projects[backup_migrate][version] = "2.8"
 
-projects[file_entity][version] = "2.0-beta1"
+projects[file_entity][version] = "2.0-beta2"
 
 projects[clientside_validation][version] = "1.41"
 
 projects[ctools][version] = "1.7"
 
-projects[redirect][version] = "1.0-rc1"
+projects[redirect][version] = "1.0-rc3"
 
 projects[globalredirect][version] = "1.5"
 
@@ -32,7 +32,7 @@ projects[libraries][version] = "2.2"
 
 projects[media][version] = "2.x-dev"
 
-projects[metatag][version] = "1.4"
+projects[metatag][version] = "1.6"
 
 projects[module_filter][version] = "2.0"
 
@@ -58,7 +58,7 @@ projects[entity][version] = "1.6"
 
 projects[views][version] = "3.11"
 
-projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.3"
 
 projects[xmlsitemap][version] = "2.2"
 
