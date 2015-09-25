@@ -14,7 +14,7 @@ projects[admin_language][version] = "1.0-beta1"
 projects[admin_views][version] = "1.5"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
-projects[google_analytics][version] = "1.4"
+projects[google_analytics][version] = "1.6"
 
 projects[backup_migrate][version] = "2.8"
 
@@ -22,7 +22,7 @@ projects[file_entity][version] = "2.0-beta2"
 
 projects[clientside_validation][version] = "1.41"
 
-projects[ctools][version] = "1.7"
+projects[ctools][version] = "1.9"
 
 projects[redirect][version] = "1.0-rc3"
 
@@ -99,7 +99,7 @@ projects[pathologic][version] = "2.12"
 
 ; shiny
 projects[shiny][type] = "theme"
-projects[shiny][version] = "1.6"
+projects[shiny][version] = "1.7"
 
 ; +++++ Libraries +++++
 
