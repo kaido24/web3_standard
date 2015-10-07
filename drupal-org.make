@@ -14,7 +14,7 @@ projects[admin_language][version] = "1.0-beta1"
 projects[admin_views][version] = "1.5"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
-projects[google_analytics][version] = "1.6"
+projects[google_analytics][version] = "2.4"
 
 projects[backup_migrate][version] = "2.8"
 
