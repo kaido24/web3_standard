@@ -14,11 +14,11 @@ projects[admin_language][version] = "1.0-beta4"
 projects[admin_views][version] = "1.6"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
-projects[google_analytics][version] = "2.1"
+projects[google_analytics][version] = "2.3"
 
 projects[backup_migrate][version] = "2.8"
 
-projects[file_entity][version] = "2.0-beta2"
+projects[file_entity][version] = "2.0-beta3"
 
 projects[clientside_validation][version] = "1.44"
 
@@ -28,11 +28,11 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[globalredirect][version] = "1.5"
 
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
 projects[media][version] = "2.x-dev"
 
-projects[metatag][version] = "1.6"
+projects[metatag][version] = "1.7"
 
 projects[module_filter][version] = "2.0"
 
@@ -42,7 +42,7 @@ projects[userone][version] = "1.0-beta1"
 
 projects[pasteformat][version] = "1.5"
 
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[plupload][version] = "1.7"
 
@@ -50,17 +50,17 @@ projects[token][version] = "1.6"
 
 projects[wysiwyg][version] = "2.x-dev"
 
-projects[email_registration][version] = "1.2"
+projects[email_registration][version] = "1.3"
 
 projects[empty_front_page][version] = "1.0"
 
-projects[entity][version] = "1.6"
+projects[entity][version] = "1.8"
 
-projects[views][version] = "3.11"
+projects[views][version] = "3.14"
 
 projects[views_bulk_operations][version] = "3.3"
 
-projects[xmlsitemap][version] = "2.2"
+projects[xmlsitemap][version] = "2.3"
 
 projects[l10n_update][version] = "1.1"
 
