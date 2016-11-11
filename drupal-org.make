@@ -3,15 +3,15 @@ api = "2"
 
 ; +++++ Modules +++++
 
-projects[advagg][version] = "2.14"
+projects[advagg][version] = "2.19"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-projects[adminimal_admin_menu][version] = "1.6"
+projects[adminimal_admin_menu][version] = "1.7"
 
-projects[admin_language][version] = "1.0-beta1"
+projects[admin_language][version] = "1.0-beta4"
 
-projects[admin_views][version] = "1.5"
+projects[admin_views][version] = "1.6"
 projects[admin_views][patch][] = "https://drupal.org/files/issues/remove_user1_from_admin_people_list.patch"
 
 projects[google_analytics][version] = "2.1"
@@ -20,9 +20,9 @@ projects[backup_migrate][version] = "2.8"
 
 projects[file_entity][version] = "2.0-beta2"
 
-projects[clientside_validation][version] = "1.41"
+projects[clientside_validation][version] = "1.44"
 
-projects[ctools][version] = "1.9"
+projects[ctools][version] = "1.11"
 
 projects[redirect][version] = "1.0-rc3"
 
